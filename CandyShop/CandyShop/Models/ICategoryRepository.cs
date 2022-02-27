@@ -7,7 +7,7 @@ namespace CandyShop.Models
 {
     public interface ICategoryRepository
     {
-        IEnumerable<Category> GettAllCategories { get; }
+        IEnumerable<Category> GetAllCategories { get; }
     }
 
 }
