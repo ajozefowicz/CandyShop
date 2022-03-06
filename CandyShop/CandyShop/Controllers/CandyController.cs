@@ -1,4 +1,5 @@
 ﻿using CandyShop.Models;
+using CandyShop.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -19,9 +20,18 @@ namespace CandyShop.Controllers
             _categoryRepository = categoryRepository;
         }
 
-        public ViewResult List()
+        public IActionResult List()
         {
-            return View(_candyRepository.GetAllCandies);
+            ///ViewBag.CurrentCategory = "Bestsellers";
+            //return View(_candyRepository.GetAllCandies);
+
+            var candyListViewModel = new CandyListViewModel();
+            candyListViewModel.Candies = _candyRepository.GetAllCandies;
+            candyListViewModel.CurrentCategory = "Bestsellers";
+            return View(candyListViewModel);
+
+
+
         }
 
     }
