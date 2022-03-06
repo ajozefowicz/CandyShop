@@ -19,3 +19,15 @@ D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0
 D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\ref\CandyShop.dll
 D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\CandyShop.pdb
 D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\CandyShop.genruntimeconfig.cache
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\bin\Debug\net5.0\CandyShop.Views.dll
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\bin\Debug\net5.0\CandyShop.Views.pdb
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\CandyShop.csproj.AssemblyReference.cache
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\CandyShop.RazorAssemblyInfo.cache
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\CandyShop.RazorAssemblyInfo.cs
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\CandyShop.TagHelpers.input.cache
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\CandyShop.TagHelpers.output.cache
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\CandyShop.RazorCoreGenerate.cache
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\Razor\Views\Candy\List.cshtml.g.cs
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\CandyShop.RazorTargetAssemblyInfo.cs
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\CandyShop.Views.pdb
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\CandyShop.csproj.CopyComplete
