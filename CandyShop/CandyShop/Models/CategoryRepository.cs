@@ -7,7 +7,7 @@ namespace CandyShop.Models
 {
     public class CategoryRepository : ICategoryRepository
     {
-        public IEnumerable<Category> GettAllCategories => new List<Category>
+        public IEnumerable<Category> GetAllCategories => new List<Category>
         {
             new Category{CateogryId=1, CategoryName="Hard Candy", CategoryDescription="Super hard candy"},
             new Category{CateogryId=2, CategoryName="Chocolate Candy", CategoryDescription="very chocolate candy"},
