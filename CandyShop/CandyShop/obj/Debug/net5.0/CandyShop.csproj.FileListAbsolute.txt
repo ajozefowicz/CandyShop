@@ -31,3 +31,5 @@ D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0
 D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\CandyShop.RazorTargetAssemblyInfo.cs
 D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\CandyShop.Views.pdb
 D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\CandyShop.csproj.CopyComplete
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
