@@ -15,12 +15,12 @@ namespace CandyShop.Models
         {
             new Candy{CandyId=1, Name="Asorted Hard Candy", Price=2.22M, Description="Lorem ipsum dolor sit amet enim. " +
                 "Etiam ullamcorper. Suspendisse a pellentesque dui, non felis", Category = _categoryRepository.GetAllCategories.ToList()[0],
-                ImageUrl="https://pixabay.com/pl/photos/cukierki-%c5%82akocie-s%c5%82oik-pojemnik-1961536/", IsInStock=true, IsOnSale=false,
-                ImageThumbnailUrl="https://pixabay.com/pl/photos/cukierki-%c5%82akocie-s%c5%82oik-pojemnik-1961536/"},
+                ImageUrl="https://cdn.pixabay.com/photo/2012/12/11/21/28/variation-69470__340.jpg", IsInStock=true, IsOnSale=false,
+                ImageThumbnailUrl="https://cdn.pixabay.com/photo/2012/12/11/21/28/variation-69470__340.jpg"},
             new Candy{CandyId=2, Name="Super Hard Candy", Price=4.22M, Description="Lorem ipsum dolor sit amet enim. " +
                 "Etiam ullamcorper. Suspendisse a pellentesque dui, non felis", Category = _categoryRepository.GetAllCategories.ToList()[0],
-                ImageUrl="https://pixabay.com/pl/photos/s%c5%82odycze-serce-serca-cukierki-2087594/", IsInStock=true, IsOnSale=true,
-                ImageThumbnailUrl="https://pixabay.com/pl/photos/s%c5%82odycze-serce-serca-cukierki-2087594/"},
+                ImageUrl="https://cdn.pixabay.com/photo/2016/10/09/18/06/candy-corn-1726481_960_720.jpg", IsInStock=true, IsOnSale=true,
+                ImageThumbnailUrl="https://cdn.pixabay.com/photo/2016/10/09/18/06/candy-corn-1726481_960_720.jpg"},
             new Candy{CandyId=3, Name="Super Chocolate Candy", Price=3.33M, Description="Lorem ipsum dolor sit amet enim. " +
                 "Etiam ullamcorper. Suspendisse a pellentesque dui, non felis", Category = _categoryRepository.GetAllCategories.ToList()[1],
                 ImageUrl="https://cdn.pixabay.com/photo/2014/11/30/10/48/chocolate-551424__340.jpg", IsInStock=true, IsOnSale=true,
