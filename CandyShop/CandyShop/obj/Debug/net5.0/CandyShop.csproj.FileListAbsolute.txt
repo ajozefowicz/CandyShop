@@ -34,3 +34,4 @@ D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0
 D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
 D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\bin\Debug\net5.0\libman.json
