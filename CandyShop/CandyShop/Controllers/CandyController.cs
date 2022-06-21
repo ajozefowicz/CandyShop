@@ -29,8 +29,15 @@ namespace CandyShop.Controllers
             candyListViewModel.Candies = _candyRepository.GetAllCandies;
             candyListViewModel.CurrentCategory = "Bestsellers";
             return View(candyListViewModel);
+        }
 
+        public IActionResult Details(int id) //Add -> class -> Razor view
+        {
+            var candy = _candyRepository.GetCandyById(id);
+            if (candy == null)
+                return NotFound();
 
+            return View(candy);
 
         }
 
