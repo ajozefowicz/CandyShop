@@ -31,7 +31,7 @@ namespace CandyShop.Controllers
             return View(candyListViewModel);
         }
 
-        public IActionResult Details(int id) //Add -> class -> Razor view
+        public IActionResult Details(int id) //Add -> class -> Web -> Razor view
         {
             var candy = _candyRepository.GetCandyById(id);
             if (candy == null)
