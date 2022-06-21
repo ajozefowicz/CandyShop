@@ -69,3 +69,5 @@ D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\bin\Debug\net5.0
 D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\CandyShop.csproj.AssemblyReference.cache
 D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\Razor\Views\Candy\Details.cshtml.g.cs
 D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\Razor\Views\Shared\_candyCard.cshtml.g.cs
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\Razor\Views\Shared\_Carousel.cshtml.g.cs
