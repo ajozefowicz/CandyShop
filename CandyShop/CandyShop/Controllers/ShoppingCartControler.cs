@@ -8,12 +8,12 @@ using System.Threading.Tasks;
 
 namespace CandyShop.Controllers
 {
-    public class ShoppingCartControler : Controller
+    public class ShoppingCartController : Controller
     {
         private readonly ICandyRepository _candyRepository;
         private readonly ShoppingCart _shoppingCart;
 
-        public ShoppingCartControler(ICandyRepository candyRepository, ShoppingCart shoppingCart)
+        public ShoppingCartController(ICandyRepository candyRepository, ShoppingCart shoppingCart)
         {
             _candyRepository = candyRepository;
             _shoppingCart = shoppingCart;
