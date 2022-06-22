@@ -33,5 +33,18 @@ namespace CandyShop.Controllers
     }
 
 
+        public RedirectToActionResult AddToShoppingCart(int candyId)
+        {
+            var selectedCandy = _candyRepository.GetAllCandies.FirstOrDefault(c => c.CandyId == candyId);
+
+            if(selectedCandy != null)
+            {
+                _shoppingCart.AddToCart(selectedCandy, 1);
+            }
+
+            return RedirectToAction("Index");
+        }
+
+
 }
 }
