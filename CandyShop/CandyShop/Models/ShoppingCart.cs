@@ -92,5 +92,14 @@ namespace CandyShop.Models
             _appDbContext.ShoppingCartItems.RemoveRange(cartItems);
             _appDbContext.SaveChanges();
         }
+
+        public decimal GetShoppingCartTotalPrice()
+        {
+            var total = _appDbContext.ShoppingCartItems.Where(c => c.ShoppingCardId == ShoppingCartId).Select(c => c.Candy.Price * c.Amount).Sum();
+            return total;
+        }
+
     }
+
+
 }
