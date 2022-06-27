@@ -72,4 +72,5 @@ D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0
 D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\Razor\Views\Shared\_Carousel.cshtml.g.cs
 D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
-D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Defoult.cshtml.g.cs
+D:\Desktop\Programowanie_projekty\CandyShop\CandyShop\CandyShop\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryMenu\Defoult.cshtml.g.cs
